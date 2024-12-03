@@ -2,7 +2,13 @@
 
 ୨ৎ I'm Daad Haymour, a third year student in Software and Mechatronics at the University of Calgary
 
-୨ৎ My interests in tech at the moment range from App/web development, AI/ML, and Cybersecurity
+୨ৎ Currently learning more about: App/web development, AI/ML, and Cybersecurity
+
+୨ৎ Skills: 
+Languages: Java, C, C++, Python, Javascript
+Web Development: HTML,CSS, REACT, Next.js, tailwindcss
+Data management: MySql
+
 
 <!--
 **daadhaymour/daadhaymour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
