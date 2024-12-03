@@ -6,7 +6,9 @@
 
 ୨ৎ Skills: 
 Languages: Java, C, C++, Python, Javascript
+
 Web Development: HTML,CSS, REACT, Next.js, tailwindcss
+
 Data management: MySql
 
 
