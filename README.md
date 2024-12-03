@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there👋
+
+୨ৎ I'm Daad Haymour, a third year student in Software and Mechatronics at the University of Calgary
+୨ৎ My interests in tech at the moment range from App/web development, AI/ML, and Cybersecurity
+୨ৎ Always seeking knowledge from every aspect of the tech industry.
+
 
 <!--
 **daadhaymour/daadhaymour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
