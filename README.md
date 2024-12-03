@@ -5,6 +5,7 @@
 ୨ৎ Currently learning more about: App/web development, AI/ML, and Cybersecurity
 
 ୨ৎ Skills: 
+
 Languages: Java, C, C++, Python, Javascript
 
 Web Development: HTML,CSS, REACT, Next.js, tailwindcss
