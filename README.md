@@ -8,7 +8,7 @@
 
 🎧 Languages: Java, C, C++, Python, Javascript
 
-💻 Web Development: HTML,CSS, REACT, Next.js, tailwindcss
+💻 Web Development: HTML,CSS, REACT, Next.js, tailwindcss, Node.js
 
 📂 Data management: MySQL
 
