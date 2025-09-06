@@ -1,6 +1,6 @@
 ## Hi there👋
 
-୨ৎ I'm Daad Haymour, a third year student in Software and Mechatronics Engineering at the University of Calgary
+୨ৎ I'm Daad Haymour, a fourth year student in Software and Mechatronics Engineering at the University of Calgary
 
 ୨ৎ Currently learning more about: App/web development, AI/ML, and Cybersecurity
 
